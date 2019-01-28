@@ -1,0 +1,10 @@
+{
+	"author": "Ilya Leoshko",
+	"email": "",
+	"website": "https://fengyuanchen.github.io/viewerjs/",
+	"version": "1.0",
+	"releaseDate": "2019-01-24",
+	"license": "MIT",
+	"compatible": "2.x, 3.x",
+	"notes": "Page gallery based on the Viewer.js v1.3.2 by Fengyuan Chen"
+}
